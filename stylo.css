@@ -1,0 +1,120 @@
+body{
+	margin: auto;
+	text-align: center;
+	background-color:;
+}
+header{
+	float: right;
+	margin-right: 100px;
+	margin-top: 20px;
+
+}
+a{
+	color: gray;
+	text-decoration: none;
+	padding: 10px;
+}
+.box{
+	border:0.1px solid black;
+	width: 520px;
+	height: 40px;
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	box-shadow: 1px 1px 5px #888; 
+	border-radius: 40px;
+}
+.input-one{
+	margin-left: 15px;
+	width: 427px;
+	height: 35px;
+	border:none;
+	outline: none;
+	font-size: 16px;
+}
+.loupe{
+	float: left;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	
+	
+
+}
+.voix{
+	float: right;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	}
+	.logo{
+		font-size: 80px;
+		position: relative;
+		left: 110px;
+		top: 120px;
+	}
+	.button{
+		position: relative;
+		top: 100px;
+		right: 20px;
+
+	}
+	.btn{
+		margin: 150px 10px 0 0 ;
+		font-size: 15px;
+		padding: 8px 15px ;
+		border:none;
+		color: #6e6e6e;
+	}
+	.phrase{
+		position: relative;
+		top: 100px;
+	}
+	.lien{
+		color: blue;
+
+	}
+	.foot{
+		position: relative;
+		top: 230px;
+		text-align: left;
+		background-color: lightgray;
+		height: 100px;
+	}
+	.senegal{
+		position: relative;
+		left: 25px;
+		color: gray;
+		padding-top: 5px;
+	}
+	hr{
+    margin-bottom: 20px;
+	}
+	.droit{
+		display: inline;
+		float: right;
+		margin-right: 20px;
+	}
+	.gauche{
+		display: inline;
+		margin-left: 20px;
+	}
+	.g{
+		color: blue;
+	}
+	.o{
+		color: red;
+	}
+	.on{
+		color: yellow;
+	}
+	.ge{
+		color: blue;
+	}
+	.l{
+		color: green;
+	}
+	.e{
+		color: red;
+	}
+	
